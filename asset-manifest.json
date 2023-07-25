@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6552df35.css",
+    "main.js": "/static/js/main.a18cc04c.js",
+    "static/media/Logo_Gradient.svg": "/static/media/Logo_Gradient.e879992343665efbec95d5e70895dee4.svg",
+    "index.html": "/index.html",
+    "main.6552df35.css.map": "/static/css/main.6552df35.css.map",
+    "main.a18cc04c.js.map": "/static/js/main.a18cc04c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6552df35.css",
+    "static/js/main.a18cc04c.js"
+  ]
+}
